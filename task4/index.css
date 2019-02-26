@@ -1,0 +1,30 @@
+table {
+    border: 1px solid black;
+}
+
+table th
+{
+    font-size: 25px;
+}
+
+
+
+#table1 th
+{ 
+    background-color: aqua
+    border: 2px solid black;
+}
+
+#table1 td
+{ 
+    border: 1px solid black;
+}
+
+#table2 { 
+    background-color: red;
+    border: 1px solid black;
+}
+
+#table3 {
+    background-color: blue;
+}
